@@ -6,6 +6,6 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...Github
-- 🌱 I’m currently learning ...Github and Git
+- 🌱 I’m currently learning ...Github,Git,java,c
 - 📫 How to reach me: ...shaikaysha711@gmail.com
 
